@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 Images look like links except with an exclamation directly in front
 
-![My Favorite Baseball Teams logo]([https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/210px-St._Louis_Cardinals_logo.svg.png)https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/210px-St._Louis_Cardinals_logo.svg.png)
+![My Favorite Baseball Teams logo]((https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/210px-St._Louis_Cardinals_logo.svg.png)https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/210px-St._Louis_Cardinals_logo.svg.png)
 
 ## Reminders
 
